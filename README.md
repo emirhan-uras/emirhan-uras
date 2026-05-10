@@ -25,6 +25,20 @@ Backend geliştirme ve sistem tasarımı üzerine çalışmayı seven bir yazıl
 
 ---
 
+### 📊 Geliştirici Aktiviteleri
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=emirhan-uras&theme=tokyo-night&hide_border=true&bg_color=1a1b27" width="100%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=emirhan-uras&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
 ### 📫 İletişim
 
 <div align="left">
