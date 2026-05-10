@@ -25,15 +25,6 @@ Backend geliştirme ve sistem tasarımı üzerine çalışmayı seven bir yazıl
 
 ---
 
-### 📊 GitHub İstatistikleri
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=emirhan-uras&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emirhan-uras&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</div>
-
----
-
 ### 📫 İletişim
 
 <div align="left">
