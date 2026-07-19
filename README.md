@@ -1,27 +1,28 @@
-<div align="center">
-  <h1>Merhaba, ben Emirhan 👋</h1>
-  <p><b>Yazılım Mühendisliği Öğrencisi | Backend Geliştirici Adayı</b></p>
-</div>
+# Merhaba, Ben Emirhan! 👋
+
+Karadeniz Teknik Üniversitesi'nde Yazılım Mühendisliği 3. sınıf öğrencisiyim.
+
+İlgi alanım ağırlıklı olarak **Veri Mühendisliği (Data Engineering)**. Şu anda Python, SQL, Linux ve veri teknolojileri üzerine çalışıyor; öğrendiklerimi projelerle pekiştirerek bu alanda sağlam bir temel oluşturmaya çalışıyorum.
 
 ---
 
-### 💫 Hakkımda
+## 🚀 Şu anda üzerinde çalıştıklarım
 
-Backend geliştirme ve sistem tasarımı üzerine çalışmayı seven bir yazılım mühendisliği öğrencisiyim. Teoriden ziyade doğrudan kodlayarak ve üreterek öğrenmeyi tercih ediyorum. Şu sıralar aktif olarak Java ve Spring Boot ekosistemi üzerine projeler geliştiriyorum.
-
-- 🎓 **Eğitim:** Karadeniz Teknik Üniversitesi - Yazılım Mühendisliği
-- 🚀 **Odak Noktam:** Java & Spring Boot ile ölçeklenebilir Backend mimarileri ve API tasarımı
-- 🗄️ **Veritabanı:** PostgreSQL ile veri yönetimi ve optimizasyon
+- 📚 Python, SQL ve Linux becerilerimi geliştiriyorum.
+- 🗄️ Veri Mühendisliği temellerini öğreniyorum.
+- 💻 GitHub üzerinde öğrendiklerimi küçük projelerle uyguluyorum.
+- 🌱 Her gün yeni bir şey öğrenmeye çalışıyorum.
 
 ---
 
-### 🛠️ Teknoloji Yığını
+## 🛠️ Öğreniyorum
 
-<div align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-</div>
+- 🐍 Python
+- 🗃️ SQL
+- 🐘 PostgreSQL
+- 🐧 Linux
+- 🔀 Git & GitHub
+- ☕ Java
 
 ---
 
