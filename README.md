@@ -37,7 +37,3 @@ Backend geliştirme ve sistem tasarımı üzerine çalışmayı seven bir yazıl
 </div>
 
 <br />
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=emirhan-uras&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="views" />
-</div>
