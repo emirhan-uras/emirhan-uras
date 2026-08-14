@@ -1,28 +1,18 @@
 # Merhaba, Ben Emirhan! 👋
 
-Karadeniz Teknik Üniversitesi'nde Yazılım Mühendisliği 3. sınıf öğrencisiyim.
+Karadeniz Teknik Üniversitesi'nde **Yazılım Mühendisliği 3. sınıf öğrencisiyim.**
 
-İlgi alanım ağırlıklı olarak **Veri Mühendisliği (Data Engineering)**. Şu anda Python, SQL, Linux ve veri teknolojileri üzerine çalışıyor; öğrendiklerimi projelerle pekiştirerek bu alanda sağlam bir temel oluşturmaya çalışıyorum.
-
----
-
-## 🚀 Şu anda üzerinde çalıştıklarım
-
-- 📚 Python, SQL ve Linux becerilerimi geliştiriyorum.
-- 🗄️ Veri Mühendisliği temellerini öğreniyorum.
-- 💻 GitHub üzerinde öğrendiklerimi küçük projelerle uyguluyorum.
-- 🌱 Her gün yeni bir şey öğrenmeye çalışıyorum.
+Yazılım geliştirme ile ilgileniyor, farklı teknolojiler kullanarak projeler geliştiriyor, öğrendiklerimi uygulamalı olarak pekiştiriyorum.
 
 ---
 
-## 🛠️ Öğreniyorum
+## 🛠️ Bildiğim / Kullandığım Teknolojiler
 
-- 🐍 Python
-- 🗃️ SQL
-- 🐘 PostgreSQL
-- 🐧 Linux
-- 🔀 Git & GitHub
-- ☕ Java
+* ☕ Java
+* 🗃️ SQL
+* 🐘 PostgreSQL
+* 🌱 Spring Boot
+* 🔀 Git & GitHub
 
 ---
 
@@ -38,3 +28,4 @@ Karadeniz Teknik Üniversitesi'nde Yazılım Mühendisliği 3. sınıf öğrenci
 </div>
 
 <br />
+
