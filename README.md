@@ -10,7 +10,6 @@ Yazılım geliştirme ile ilgileniyor, farklı teknolojiler kullanarak projeler 
 
 * ☕ Java
 * 🗃️ SQL
-* 🐘 PostgreSQL
 * 🌱 Spring Boot
 * 🔀 Git & GitHub
 
